@@ -8,6 +8,7 @@ The script requires mss which can be installed using:
 **pip install mss**
 
 Download the script in a folder that will contain the screenshots
+
 Run the script using:
 
 **python TakeScreenshots.py**
